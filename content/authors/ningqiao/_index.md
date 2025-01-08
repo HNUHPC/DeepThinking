@@ -22,11 +22,11 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning and Triton compilation optimization and language extension.
+bio: My research interests include data compression and deep learning.
 
 interests:
-  - Deep learning
-  - Triton compilation optimization and language extension
+  - Data Compression
+  - Deep Learning
 
 education:
   courses:
@@ -67,5 +67,4 @@ user_groups:
   - Master
 ---
 
-Lei Yin is a third-year undergraduate student at Hunan University and a member of CYCLE. His research areas of interest are deep learning and Triton compilation optimization and language extension.
-
+Qiao Ning is information science and engineering college of Hunan University members, graduate student in grade one. Her research interest is data compression.
