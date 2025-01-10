@@ -22,11 +22,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data compression and deep learning.
+bio: My research interests include data compression.
 
 interests:
   - Data Compression
-  - Deep Learning
 
 education:
   courses:

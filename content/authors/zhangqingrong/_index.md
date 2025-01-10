@@ -33,7 +33,7 @@ education:
       institution: Hunan University
       year: 2023 - Present
     - course: BSc
-      institution: Hunan University
+      institution: Hunan Normal University
       year: 2019 - 2023
 
 
