@@ -67,4 +67,4 @@ user_groups:
   - Master
 ---
 
-Qiao Ning is information science and engineering college of Hunan University members, graduate student in grade one. Her research interest is data compression.
+Qiao Ning is a first-year graduate student at the College of Information Science and Engineering, Hunan University. Her research focuses on data compression.
