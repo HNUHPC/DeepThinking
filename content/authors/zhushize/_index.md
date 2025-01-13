@@ -68,4 +68,4 @@ user_groups:
   - Master
 ---
 
-Shize Zhu is a second year graduate student at Hunan University, under the supervision of Professor Huizhang Luo.
+**Shize Zhu** is a second year graduate student at Hunan University, under the supervision of Professor Huizhang Luo.

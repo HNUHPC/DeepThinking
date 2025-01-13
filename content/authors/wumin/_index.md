@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Qingrong Zhang (张青荣)
+title: Min Wu (吴敏)
 
 # Full name (for SEO)
-first_name: Qingrong
-last_name: Zhang
+first_name: Min
+last_name: Wu
 
 # Username (this should match the folder name)
 authors:
-  - zhangqingrong
+  - wumin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student (start from 2023)
+role: PhD student (start from 2024)
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high-performance computing.
+bio: My research interests include high performance computing and algorithm optimization.
 
 interests:
   - High-Performance Computing
+  - Algorithm Optimization
 
 education:
   courses:
-    - course: MEng
+    - course: Postgraduate
       institution: Hunan University
-      year: 2023 - Present
-    - course: BEng
-      institution: Hunan Normal University
-      year: 2019 - 2023
+      year: 2022 - Present
+    - course: BS
+      institution: Hunan University
+      year: 2018 - 2022
 
 
 # Social/Academic Networking
@@ -44,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cyan666@qq.com'
+    link: 'mailto:Wumin@hnu.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: 
@@ -63,7 +64,23 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - PhD
 ---
 
-**Qingrong Zhang** is currently a second-year master student at Hunan University. His research interests include high-performance computing.
+**Min Wu** is a PhD student at Hunan University, studying under the supervision of Prof. Huizhang Luo.
+
+### Publications
+
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[HPCA 25]</div>
+        <div style="flex: 1;">
+            HSMU-SpGEMM: Achieving High Shared Memory Utilization for Parallel Sparse General Matrix-Matrix Multiplication on Modern GPUs<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Min Wu</strong>, Luo, Li, Z., Tang, Li, Jeff Zhang, & Chubo Liu <br>
+                <em>The International Symposium on High-Performance Computer Architecture (HPCA 25)</em>
+            </span>
+        </div>
+    </div>
+</div>

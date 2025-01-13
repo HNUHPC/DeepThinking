@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Qingrong Zhang (张青荣)
+title: Huizhao Feng (冯惠昭)
 
 # Full name (for SEO)
-first_name: Qingrong
-last_name: Zhang
+first_name: Huizhao
+last_name: Feng
 
 # Username (this should match the folder name)
 authors:
-  - zhangqingrong
+  - fenghuizhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student (start from 2023)
+role: PhD student (start from 2023)
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high-performance computing.
+bio: My research interests include distributed storage system, cloud storage system and reliability coding.
 
 interests:
-  - High-Performance Computing
+  - Distributed Storage System
+  - Cloud Storage System
+  - Reliability Coding
 
 education:
   courses:
-    - course: MEng
+    - course: PhD
       institution: Hunan University
       year: 2023 - Present
-    - course: BEng
-      institution: Hunan Normal University
-      year: 2019 - 2023
+    - course: MEng
+      institution: Hunan University
+      year: 2021 - 2023
+    - course: BSc
+      institution: Zhengzhou University
+      year: 2017 - 2021
 
 
 # Social/Academic Networking
@@ -44,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:cyan666@qq.com'
+    link: 'mailto:fenghz@hnu.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: 
@@ -63,7 +68,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - PhD
 ---
 
-**Qingrong Zhang** is currently a second-year master student at Hunan University. His research interests include high-performance computing.
+**Huizhao Feng** is currently pursuing her Ph.D. in Computer Science and Technology at the College of Information Science and Engineering, Hunan University, under the guidance of Prof. Huizhang Luo. She began her academic journey at Hunan University as a master’s student in 2021 and transitioned to the Ph.D. program in 2023. Prior to this, she earned her Bachelor of Engineering degree in Computer Science and Technology from Zhengzhou University in 2021. Her primary research interests include distributed storage systems, cloud storage systems, and reliability coding. She is committed to exploring innovative solutions to enhance data reliability and the overall performance of distributed storage systems.
+
+
