@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yuming Cao (黎毅达)
+title: Yuming Cao (曹育铭)
 
 # Full name (for SEO)
-first_name: Yida
-last_name: Li
+first_name: Yuming
+last_name: Cao
 
 # Username (this should match the folder name)
 authors:
-  - liyida
+  - caoyuming
 
 # Is this the primary user of the site?
 superuser: false
