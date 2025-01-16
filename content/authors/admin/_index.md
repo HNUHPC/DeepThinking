@@ -82,6 +82,96 @@ user_groups:
 ### Publications
 This part collects a(n incomplete) list of Huizhang Luo's publications. Posters and workshp papers without formal proceedings are not recorded. More information is available at [Google Scholar](https://scholar.google.com/citations?user=igZQmi8AAAAJ&hl=en) and dblp.
 
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TECS 2024]</div>
+        <div style="flex: 1;">
+            AMP: Total Variation Reduction for Lossless Compression via Approximate Median-based Preconditioning<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                Fenfang Li, <strong>Huizhang Luo</strong>, Junqi Wang, Yida Li, Zhuo Tang, Kenli Li <br>
+                <em>ACM Transactions on Embedded Computing Systems, 2024 </em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TVT 2024]</div>
+        <div style="flex: 1;">
+            MF-Net: A Multimodal Fusion Model for Fast Multi-object Tracking<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                Shirui Tian, Mingxing Duan, Jiayan Deng, <strong>Huizhang Luo</strong>, Yikun Hu<br>
+                <em>IEEE Transactions on Vehicular Technology, 2024</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TPDS 2023]</div>
+        <div style="flex: 1;">
+            COFFEE: Cross-Layer Optimization for Fast and Efficient Executions of Sinkhorn-Knopp Algorithm on HPC Systems<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+               Chengyu Sun, <strong>Huizhang Luo</strong>, Hong Jiang, Jeff Zhang, Kenli Li <br>
+                <em>IEEE Transactions on Parallel and Distributed Systems, 2023</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TC 2023]</div>
+        <div style="flex: 1;">
+            LAMP: Improving compression ratio for AMR applications via level associated mapping-based preconditioning<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                Yida Li, <strong>Huizhang Luo</strong>, Fenfang Li, Junqi Wang, Kenli Li <br>
+                <em>IEEE Transactions on Computers, vol. 72, no. 12, pp. 3370–3382, 2023.</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TPDS 2022]</div>
+        <div style="flex: 1;">
+            zMesh: Theories and Methods to Exploring Application Characteristics to Improve Lossy Compression Ratio for Adaptive Mesh Refinement<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Huizhang Luo</strong>, Junqi Wang, Qing Liu, Jieyang Chen, Scott Klasky, Norbert Podhorszki <br>
+                <em>IEEE Transactions on Parallel and Distributed Systems, 2022</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[IPDPS 2021]</div>
+        <div style="flex: 1;">
+            zmesh: Exploring application characteristics to improve lossy compression ratio for adaptive mesh refinement<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Huizhang Luo</strong>, Junqi Wang, Qing Liu, Jieyang Chen, Scott Klasky, Norbert Podhorszki <br>
+                <em>2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[IPDPS 2019]</div>
+        <div style="flex: 1;">
+            Identifying latent reduced models to precondition lossy compression<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Huizhang Luo</strong>, Dan Huang, Qing Liu, Zhenbo Qiao, Hong Jiang, Jing Bi, Haitao Yuan, Mengchu Zhou, Jinzhen Wang, Zhenlu Qin <br>
+                <em>2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS)</em>
+            </span>
+        </div>
+    </div>
+</div>
 
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
@@ -95,68 +185,5 @@ This part collects a(n incomplete) list of Huizhang Luo's publications. Posters 
         </div>
     </div>
 </div>
------------------------------------------------------------
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[OSDI 2024]</div>
-        <div style="flex: 1;">
-            MF-Net: A Multimodal Fusion Model for Fast Multi-object Tracking<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Shirui Tian, Mingxing Duan, Jiayan Deng, <strong>Huizhang Luo</strong>, Yikun Hu<br>
-                <em>IEEE Transactions on Vehicular Technology, 2024</em>
-            </span>
-        </div>
-    </div>
-</div>
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[OSDI 2024]</div>
-        <div style="flex: 1;">
-            Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Yi Zhai, Sijia Yang, Keyu Pan, Renwei Zhang, Shuo Liu, Chao Liu, Zichun Ye, Jianmin Ji, <strong>Jie Zhao</strong>, Yu Zhang, and Yanyong Zhang <br>
-                <em>In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) Jul 2024</em>
-            </span>
-        </div>
-    </div>
-</div>
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[OSDI 2024]</div>
-        <div style="flex: 1;">
-            Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Yi Zhai, Sijia Yang, Keyu Pan, Renwei Zhang, Shuo Liu, Chao Liu, Zichun Ye, Jianmin Ji, <strong>Jie Zhao</strong>, Yu Zhang, and Yanyong Zhang <br>
-                <em>In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) Jul 2024</em>
-            </span>
-        </div>
-    </div>
-</div>
-
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[OSDI 2024]</div>
-        <div style="flex: 1;">
-            Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Yi Zhai, Sijia Yang, Keyu Pan, Renwei Zhang, Shuo Liu, Chao Liu, Zichun Ye, Jianmin Ji, <strong>Jie Zhao</strong>, Yu Zhang, and Yanyong Zhang <br>
-                <em>In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) Jul 2024</em>
-            </span>
-        </div>
-    </div>
-</div>
-
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[OSDI 2024]</div>
-        <div style="flex: 1;">
-            Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Yi Zhai, Sijia Yang, Keyu Pan, Renwei Zhang, Shuo Liu, Chao Liu, Zichun Ye, Jianmin Ji, <strong>Jie Zhao</strong>, Yu Zhang, and Yanyong Zhang <br>
-                <em>In 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) Jul 2024</em>
-            </span>
-        </div>
-    </div>
-</div>
