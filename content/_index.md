@@ -24,7 +24,7 @@ sections:
         <br>
           Through continuous efforts in these research directions, the DeepThinking Lab aspires to contribute meaningfully to the development of computer science and related technologies.
         </div>
-         <img src="../assets/media/welcome.jpg" alt="DeepThinking Lab Image" style="max-width: 50%; margin-right: 20px;">
+         <img src="../assets/media/welcome.jpg" alt="DeepThinking Lab Image" style="max-width: 100%; margin-right: 20px;">
        </div>
         
   - block: collection
