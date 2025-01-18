@@ -13,7 +13,7 @@ sections:
 #        filename: welcome.jpg
       text: |
        <div style="display: flex; flex-direction: column; align-items: center;">
-           <div style="text-align: justify; font-size: 18px; flex-grow: 1;">
+           <div style="text-align: justify; max-width: 100%; font-size: 18px; margin-bottom: 20px;">
         <br>
         <div style = "text-align: justify; font-size: 18px;">
           The <strong>DeepThinking Lab</strong> is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
