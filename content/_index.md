@@ -9,9 +9,11 @@ sections:
     content:
       title: |
         DeepThinking Lab
-      image:
-        filename: welcome.jpg
+#      image:
+#        filename: welcome.jpg
       text: |
+       <div style="display: flex; flex-direction: column; align-items: center;">
+           <div style="text-align: justify; font-size: 18px; flex-grow: 1;">
         <br>
         <div style = "text-align: justify; font-size: 18px;">
           The <strong>DeepThinking Lab</strong> is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
@@ -22,6 +24,8 @@ sections:
         <br>
           Through continuous efforts in these research directions, the DeepThinking Lab aspires to contribute meaningfully to the development of computer science and related technologies.
         </div>
+         <img src="../assets/media/welcome.jpg" alt="DeepThinking Lab Image" style="max-width: 50%; margin-right: 20px;">
+       </div>
         
   - block: collection
     content:
