@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        <div style = "text-align: justify; font-size: 18px;">
+        <div style = "text-align: left; font-size: 18px;">
           The <strong>DeepThinking Lab</strong> is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
         <br>
           The name "DeepThinking" represents our pursuit of in-depth exploration and innovation in these research areas. It implies that we are committed to profound thinking and analysis, constantly striving to break through the existing boundaries and discover new solutions.
