@@ -25,7 +25,7 @@ bio: My research interests include high-performance computing and computer archi
 interests:
   - High-Performance Computing and Computer Architecture
   - Integration of AI and HPC
-  - Large Model Acceleration
+  - Large-Model Acceleration
 
 education:
   courses:

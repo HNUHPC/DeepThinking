@@ -14,7 +14,11 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **DeepThinking Lab** is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
+        The name "DeepThinking" represents our pursuit of in-depth exploration and innovation in these research areas. It implies that we are committed to profound thinking and analysis, constantly striving to break through the existing boundaries and discover new solutions.
+        In the domain of high-performance computing, we focus on developing advanced algorithms and techniques to improve the computational speed and efficiency of supercomputers. Regarding computer architecture, we aim to design more efficient and scalable architectures that can better support emerging applications.
+        Our research on Data Compression is centered around reducing data storage space and transmission bandwidth while maintaining data integrity. In the field of Parallel Computing, we explore parallel algorithms and programming models to fully utilize multi-core processors and distributed computing platforms.
+        Through continuous efforts in these research directions, the DeepThinking Lab aspires to contribute meaningfully to the development of computer science and related technologies.
   
   - block: collection
     content:
