@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         <div style = "text-align: justify; font-size: 20px;">
-        The **DeepThinking Lab** is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
+        The <strong>DeepThinking Lab</strong> is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
         <br>
         The name "DeepThinking" represents our pursuit of in-depth exploration and innovation in these research areas. It implies that we are committed to profound thinking and analysis, constantly striving to break through the existing boundaries and discover new solutions.
         <br>
