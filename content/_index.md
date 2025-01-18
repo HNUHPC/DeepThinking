@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        DeepThinking
+        DeepThinking Lab
       image:
         filename: welcome.jpg
       text: |
