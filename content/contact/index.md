@@ -21,7 +21,7 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '28.1737'
+        latitude: '28.1747'
         longitude: '112.9380'
       directions: Enter the Supercomputing Center Building 1 and go upstairs to room 522
       # office_hours:
