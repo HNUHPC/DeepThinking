@@ -22,7 +22,7 @@ sections:
         country_code: CN
       coordinates:
         latitude: '28.1737'
-        longitude: '112.9424'
+        longitude: '112.9414'
       directions: Enter the Supercomputing Center Building 1 and go upstairs to room 522
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
