@@ -4,7 +4,7 @@ title: 'Exploring Level-Wise Interpolation to Improve Lossy Compression Ratio fo
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-Yida Li, Huizhang Luo, Chubo Liu, Kenli Li
+
 authors:
   - Yida Li
   - Huizhang Luo
