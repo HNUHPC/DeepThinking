@@ -1,32 +1,33 @@
 ---
-title: 'Arfa: an Agile Regime-based Floating-point Optimization Approach for Rounding Errors'
+title: 'AMP: Total Variation Reduction for Lossless Compression via Approximate Median-based Preconditioning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
+
 authors:
-  - Jinchen Xu
-  - Mengqi Cui
-  - Fei Li
-  - Zuoyan Zhang
-  - Hongru Yang
-  - Bei Zhou
-  - Jie Zhao
+  - Fenfang Li
+  - Huizhang Luo
+  - Junqi Wang
+  - Yida Li
+  - Zhuo Tang
+  - Kenli Li
+  
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
   - ''
   - ''
   - ''
-  - 'Corresponding author'
-  - 'Corresponding author'
+  - ''
+  - ''
+  - ''
+  
 
-date: '2024-07-01T00:00:00Z'
+date: '2024-09-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-01T00:00:00Z'
+publishDate: '2024-09-11T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -34,13 +35,13 @@ publishDate: '2024-07-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis*
-publication_short: In *ISSTA 2024*
+publication: In *ACM Transactions on Embedded Computing Systems, Volume 23, Issue 6, No. 86, Pages 1 - 22*
+publication_short: In *ACM TECS 2024*
 
-abstract: Recent approaches present the concept of regimes to partition the input domain D of a floating-point expression f_e, rewriting it in each regime where f_e shows larger errors such that the accuracy across D can be improved. These methods, however, fall short of both inferring regimes and searching rewrite substitutions.In this paper, we introduce a rewriting system called Arfa to address these issues. Given an f_e and its D, Arfa first seeks a rewrite substitution f_o that has lower errors across D and next plots the error distribution of f_o. The boundary line of this plot is then sketched, based on which an effective regime inference algorithm applicable to both numerically stable and unstable programs is implemented. For each regime where f_o should be rewritten, Arfa first normalizes f_o  by considering the regime’s properties and next generates an incomplete set of f_o ’s rewrite candidates, which are prioritized according to the number of floating-point operators. Finally, Arfa selects the best rewrite substitution by empirically inspecting the errors of several top ranked rewrite candidates, with enhancing precision also considered as a complementary strategy. This search heuristic avoids the need to establish a cost model used by prior work.We conduct experiments using 60 benchmarks, including 56 FPbench examples and four real-life programs. The results demonstrate that Arfa can reduce both maximum and average errors of the original expressions by 4.73 and 2.08 bits on average, and up to 33 and 16 bits, respectively; the experimental outcomes also show that Arfa exhibits lower errors, sometimes to a significant degree, than Herbie, PSAT (a global optimization framework that rewrites numerical programs via prioritized stochastic algebraic transformations), Daisy, and Regina.
+abstract: With the increasing scale of cloud computing applications of next-generation embedded systems, a major challenge that domain scientists are facing is how to efficiently store and analyze the vast volume of output data. Compression can reduce the amount of data that needs to be transferred and stored. However, most of the large datasets are in floating-point format, which exhibits high entropy. As a result, existing lossless compressors cannot provide enough performance for such applications. To address this problem, we propose a total variation reduction method for improving the compression ratio of lossless compressors (namely, FPC+ and FPZIP+), which employs a median-based hyperplane to precondition the data. In particular, we first try to exploit the space-filling curve (SFC), a well-known technique to preserve data locality for a multi-dimensional dataset. We show and explain why a raw SFC, such as Hilbert and Z-order curves, cannot improve the compression ratio. Then, we explore the opportunity and theoretical feasibility of the proposed total variation reduction-based algorithm. The experiment results show the effectiveness of the proposed method. The compression ratios are improved up to 48.2% (20.6% on average) for FPZIP and 42.4% (18.4% on average) for FPC. Moreover, through observing the time composition of the proposed method, it is found that the median finding holds a high percentage of the execution time. Hence, we further introduce an approximate median finding algorithm, providing a linear-time overhead reduction scheme. The experiment results clearly demonstrate that this algorithm reduces execution time by an average of 56.7% and 40.7% compared to FPC+ and FPZIP+, respectively.
 
 # Summary. An optional shortened abstract.
-summary: In *Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis (ISSTA 2024)*
+summary: In *ACM Transactions on Embedded Computing Systems, Volume 23, Issue 6, No. 86, Pages 1 - 22(ACM TECS 2024)*
 
 tags: []
 
@@ -52,8 +53,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4511969'
-url_code: 'https://github.com/yuanyuanxia/exprAuto'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3605359#core-cited-by'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
