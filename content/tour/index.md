@@ -31,7 +31,6 @@ sections:
       - title: DeepThinking Lab
 #        content: 'Just opened last month!'
         align: right
-        style: "margin-top: -30px;" 
         background:
           image:
             filename: welcome.jpg
