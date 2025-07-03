@@ -67,3 +67,17 @@ user_groups:
 ---
 
 **Qiao Ning** is a first-year graduate student at the College of Information Science and Engineering, Hunan University. Her research focuses on data compression.
+
+
+### Patent
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="flex: 1;">
+            基于动态游程标记的数据压缩方法及装置<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                罗辉章，<strong>宁巧</strong>，李肯立，唐卓，印东 <br>
+            </span>
+        </div>
+    </div>
+</div>

@@ -69,3 +69,17 @@ user_groups:
 ---
 
 **Tongtong Wang** is a first-year master's student at Hunan University. She completed her undergraduate studies in Computer Science and Technology at Hunan University, and is currently pursuing a major in Electronic Information. Her research interests include Graph Computing, High-performance Computing, and GPU.
+
+
+### Patent
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="flex: 1;">
+            视图驱动型子图匹配负载均衡方法、系统、存储介质<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                李肯立，<strong>王彤彤</strong>，罗辉章，印东，唐卓，丁岩，阳王东，肖国庆 <br>
+            </span>
+        </div>
+    </div>
+</div>

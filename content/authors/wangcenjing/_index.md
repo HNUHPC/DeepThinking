@@ -68,3 +68,17 @@ user_groups:
 ---
 
 **Cenjing Wang** is a member of the Supercomputing Center in the College of Information Science and Engineering at Hunan University. She is in her first year of postgraduate study. Her research interests lie in high-performance computing, lightweight research and deep learning.
+
+
+### Patent
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="flex: 1;">
+             面向无人机红外图像的多尺度自适应检测方法、系统、存储介质<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                李肯立，<strong>汪岑晶</strong>，罗辉章，刘钊，冯惠昭，张嘉鹏，陈长建，段明星，唐卓 <br>
+            </span>
+        </div>
+    </div>
+</div>

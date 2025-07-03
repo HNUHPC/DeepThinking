@@ -69,3 +69,17 @@ user_groups:
 ---
 
 **Xiaochuan Zhou**, a 2024 graduate student from Hunan University, under the supervision of Prof. Luo Huizhang. My current research focuses on high-performance computing, artificial intelligence, and parallel visualization rendering. My work aims to improve computational performance, promote the application of AI technologies, and explore the potential of parallel rendering in large-scale data processing.
+
+### Patent
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="flex: 1;">
+            基于内存映射的超算系统热力学数据处理方法和装置<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                罗辉章，<strong>周晓川</strong>，李肯立，李芬芳，印东 <br>
+                <em>已受理 申请号:202510508122X </em>
+            </span>
+        </div>
+    </div>
+</div>
