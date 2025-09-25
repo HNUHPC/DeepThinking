@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student (start from 2024)
+role: PhD student(start from 2025)
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,12 @@ interests:
 
 education:
   courses:
+    - course: PhD
+      institution: Hunan University
+      year: 2025 - Present
     - course: MSc
       institution: Hunan University
-      year: 2024 - Present
+      year: 2024 - 2025
     - course: BSc
       institution: Hunan University
       year: 2020 - 2024
@@ -65,7 +68,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master
+  - PhD
 ---
 
 **Xiaochuan Zhou**, a 2024 graduate student from Hunan University, under the supervision of Prof. Luo Huizhang. My current research focuses on high-performance computing, artificial intelligence, and parallel visualization rendering. My work aims to improve computational performance, promote the application of AI technologies, and explore the potential of parallel rendering in large-scale data processing.

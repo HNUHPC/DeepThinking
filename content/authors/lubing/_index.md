@@ -32,7 +32,7 @@ education:
   courses:
     - course: MEng
       institution: Hunan University
-      year: 2022 - Present
+      year: 2022 - 2025
 #    - course: BSc
 #      institution: Hunan University
 #      year: 2019 - 2023

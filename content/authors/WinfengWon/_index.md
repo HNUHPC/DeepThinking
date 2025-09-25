@@ -32,7 +32,7 @@ education:
   courses:
     - course: MS
       institution: Hunan University
-      year: 2022 - Present
+      year: 2022 - 2025
     - course: BS
       institution: Hunan University
       year: 2018 - 2022
