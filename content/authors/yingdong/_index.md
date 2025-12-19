@@ -68,3 +68,19 @@ user_groups:
 ---
 
 **Dong Ying** received the M.S. degrees in the Computer Science and Technology from Guizhou Normal University in China in 2012. He is now a PhD candidate in the Department of Computer Science, Hunan University. His research interests include STT-RAM, non-volatile memory, big data visualization, embedded systems, and computer architecture.
+
+
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">
+        [TC 25]</div>
+        <div style="flex: 1;">
+            AEIS: A New Energy Efficiency Improvement Scheme for MLC STT-MRAM<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+               <strong>Dong Yin</strong>, Huizhang Luo, Yan Ding, Chubo Liu, Wenchao Zhao, Kenli Li<br>
+                <em>IEEE Transactions on Computers (TC)</em>
+            </span>
+        </div>
+    </div>
+</div>

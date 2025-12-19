@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Associate Professor
+  - Professor
 ---
 
 **Huizhang Luo**, a recipient of the Yuelu Scholar Morning Star A position and selected for the Hunan Province Talents Program, obtained his Bachelor's degree in Computer Science and Technology in 2012 and his Ph.D. in 2017, both from Chongqing University. He conducted postdoctoral research at New Jersey Institute of Technology, USA, from July 2017 to December 2020. Currently, he serves as an associate professor in the Department of Computer Science at the College of Information Science and Engineering, Hunan University. His primary research interests include high-performance computing and computer architecture. 

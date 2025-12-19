@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Winfeng Won (王荣锋)
+title: Zihang Zhang（张梓航）
 
 # Full name (for SEO)
-first_name: Winfeng
-last_name: Won
+first_name: Zihang
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - WinfengWon
+  - zhangzihang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student (start from 2022)
+role: Undergraduate student(start from 2022)
 
 # Organizations/Affiliations
 organizations:
@@ -22,20 +22,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research areas of interest include computer architecture and real time communication.
+bio: A student gradually cultivating an interest in high-performance computing research.
 
 interests:
-  - Computer Architecture
-  - Real Time Communication
+  - High-Performance Computing
+  - Data Compression
 
 education:
   courses:
-    - course: MS
+    - course: BSc
       institution: Hunan University
-      year: 2022 - 2025
-    - course: BS
-      institution: Hunan University
-      year: 2018 - 2022
+      year: 2022 - Present
 
 
 # Social/Academic Networking
@@ -45,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:winfengwon@hnu.edu.com'
+    link: 'mailto:2326480074@qq.com'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: 
-#  - icon: github
-#    icon_pack: fab
-#    link: 'https://github.com/nq239'
+  # - icon: github
+  #   icon_pack: fab
+  #   link: 'https://github.com/ahdfih'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +61,19 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Undergraduate 
 ---
 
-**Winfeng Won** is a master student at Hunan University, studying under the supervision of Prof. Huizhang Luo.
+**Zihang Zhang** is currently an ordinary senior student，under the supervision of Prof. Huizhang Luo. He is currently researching GPU compression and is an immature researcher. But in the future, he will be qualified.
+
+
+
+<!-- ### Achievements
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="flex: 1;">
+            毕业论文设计《基于 MT-3000 芯片的 SPMV 合并内存访问优化及性能分析》获湖南大学 2025 届本科优秀毕业论文（设计）<br>
+        </div>
+    </div>
+</div> -->

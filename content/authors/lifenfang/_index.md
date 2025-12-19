@@ -72,31 +72,16 @@ user_groups:
 
 **Fenfang Li** received her BS Degree in information management and information systems from Beijing University of Chemical Technology in 2021. She is now a Ph.D. student at College of Computer Science and Electronic Engineering of Hunan University, under the supervision of Prof. Huizhang Luo. Her research interests include high-performance computing, scientific data management.
 
-[//]: # ()
-[//]: # (### Publications)
 
-[//]: # ()
-[//]: # ()
-[//]: # (<div style="margin-bottom: 20px;">)
-
-[//]: # (    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">)
-
-[//]: # (        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[IEEE 2023]</div>)
-
-[//]: # (        <div style="flex: 1;">)
-
-[//]: # (            LAMP: Improving compression ratio for AMR applications via level associated mapping-based preconditioning<br>)
-
-[//]: # (            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">)
-
-[//]: # (                <strong>Yida Li</strong>, Huizhang Luo, Fenfang Li, Junqi Wang, Kenli Li <br>)
-
-[//]: # (                <em>IEEE Transactions on Computers, vol. 72, no. 12, pp. 3370–3382, 2023.</em>)
-
-[//]: # (            </span>)
-
-[//]: # (        </div>)
-
-[//]: # (    </div>)
-
-[//]: # (</div>)
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[DAC 25]</div>
+        <div style="flex: 1;">
+            STREAM: Spatiotemporal Similarity-based Efficient Approximate Median with Tunable Granularity<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Fenfang Li</strong>, Huizhang Luo, Weichen Liu, Anthony Theodore Chronopoulos, Kenli Li, Chubo Liu<br>
+                <em>2025 62nd ACM/IEEE Design Automation Conference (DAC)</em>
+            </span>
+        </div>
+    </div>
+</div>
