@@ -28,7 +28,7 @@ sections:
 #              brightness: 0.7
 #          position: center
 #          color: '#555'
-      - title: DeepThinking Lab
+      - title: 并行至远
 #        content: 'Just opened last month!'
         align: right
         background:
