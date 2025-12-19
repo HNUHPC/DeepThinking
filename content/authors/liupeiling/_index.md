@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate 
+  - Alumni
 ---
 
 **Peiling Liu** received his Bachelor's degree from Hunan University in 2025. In September 2025, he was recommended for admission to Xi'an Jiaotong University to pursue a Master's degree. Under the guidance of Professor Huizhang Luo, he was awarded the Outstanding Undergraduate Thesis (Design) for the Class of 2025 at Hunan University, along with honors such as Outstanding Graduate of Hunan University and Outstanding Graduate of Hunan Province. His research interests include high-performance computing and sparse matrix computations.
