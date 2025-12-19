@@ -8,19 +8,20 @@ sections:
   - block: hero
     content:
       title: |
-        DeepThinking Lab
+        并行至远
       image:
         filename: welcome.jpg
       text: |
         <br>
+        
         <div style = "text-align: justify; font-size: 18px;">
-          The <strong>DeepThinking Lab</strong> is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression, and Parallel Computing.
+          The <strong>Pingxing Zhiyuan Lab (并行至远实验室)</strong> is dedicated to conducting cutting-edge research in the fields of high-performance computing and computer architecture. Our research scope also extends to areas such as Data Compression and Parallel Computing.
         <br>
-          The name "DeepThinking" represents our pursuit of in-depth exploration and innovation in these research areas. It implies that we are committed to profound thinking and analysis, constantly striving to break through the existing boundaries and discover new solutions.
+          "Pingxing Zhiyuan" expresses our vision of advancing parallel computing to the forefront of technology, while fostering a culture of open collaboration and collective progress among researchers. Through continuous technological innovation and collective wisdom, we explore the unknown and expand the boundaries of computational possibilities.
         <br>
           In the domain of high-performance computing, we focus on developing advanced algorithms and techniques to improve the computational speed and efficiency of supercomputers. In the area of Data Compression, we concentrate on devising strategies to cut down data storage space and transmission bandwidth without sacrificing data integrity. In the field of Parallel Computing, we explore parallel algorithms and programming models to fully utilize multi-core processors and distributed computing platforms.
         <br>
-          Through continuous efforts in these research directions, the DeepThinking Lab aspires to contribute meaningfully to the development of computer science and related technologies.
+          Through continuous efforts in these research directions, the Pingxing Zhiyuan Lab aspires to contribute meaningfully to the development of computer science and related technologies.
         </div>
         
   - block: collection
